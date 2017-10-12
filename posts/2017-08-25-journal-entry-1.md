@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Journal Entry 1"
+date: 2017-08-25
+---
+
+By chance, I began my journey into the world of coding by completing the HTML Essential Training on Lynda.com, as authored by James Williamson. However, upon beginning the introduction it became clear that starting with HTML was a stroke of luck, as HTML is really the backbone of webpages. As such, although CSS and JavaScript, which I will be learning about later on, are useful in the styling and functionality of coding, these are pointless without first having a product that actually works. 
+
+As a complete beginner to coding I found this course particularly useful and easy to follow. Williamson delves into coding terms from their very beginning and explains them in simple English, whilst demonstrating their use on the back end and front end of a website. This is a particularly useful tutorial as the viewer is able to download the exercise files and practice coding alongside the video. I found that this ensured I was engaging with the content and reinforced the importance of semantics in coding in order to have a working product.  
+
+The course covered a wide range of topics surrounding HTML, including its history, use, structure, content formatting, and how it interacts with CSS and JavaScript. As such, I feel that I am now aware of the importance of HTML and its uses. Through the course and practice, I feel that I am now capable enough to read and write basic HTML code, which will be further improved with practice and training. A list of resources was also given throughout the course, which will be useful when I come to create my artefact. 
+
+One concept that was continually referred to within the video was that of accessibility. I found it particularly interesting to emphasize the idea that good structure is not solely about the aesthetics of the page, but actually makes a huge difference to those using screen readers, which rely on being able to read the structure of the page through the semantics given. The importance of accessibility is well noted within this industry, as can be seen by W3C’s Web Accessibility Initiative which ‘has the mission to define principles and rules to design and develop Web sites that are accessible to people with disabilities’ (Di Lucca et al. 2005, p. 1). However, as a complete beginner, it is extremely important to teach these principles to those who may not be aware of how screen readers or web pages work. Hence, within my coding I will endeavor to create code that is well structured for machines to read. This will also create code that is easier to maintain, as myself, or someone else, will be able to understand what the code is doing with relative ease. 
+
+I think that this has been a valuable introduction to coding, giving me the relevant theoretical and practical knowledge about HTML to have a basis from which I can create a final artefact. The only section in which I still have some doubts is the interrelation between HTML and JavaScript, so I am hoping that the upcoming JavaScript course will be able to answer these. 
